@@ -1,5 +1,7 @@
 # Disable Spacetime Vortex for Caves of Qud
 
+[![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=3660796961)
+
 A simple mod that completely disables the Spacetime Vortex mutation ability.
 
 ## Why This Mod?
@@ -16,7 +18,13 @@ A simple mod that completely disables the Spacetime Vortex mutation ability.
 
 ## Installation
 
-1. Subscribe to this mod on the Steam Workshop, OR:
+### Via Steam Workshop (Recommended)
+
+[Subscribe on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3660796961)
+
+### Manual Installation
+
+1. Download the latest release, OR:
 2. Copy the `DisableSpacetimeVortex` folder to your Caves of Qud mods directory:
    - **Linux**: `~/.config/unity3d/Freehold Games/Caves of Qud/Mods/`
    - **Windows**: `%USERPROFILE%\AppData\LocalLow\Freehold Games\Caves of Qud\Mods\`
