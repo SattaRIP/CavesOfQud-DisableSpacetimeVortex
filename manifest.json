@@ -1,0 +1,9 @@
+{
+  "id": "DisableSpacetimeVortex",
+  "title": "Disable Spacetime Vortex",
+  "description": "Disables the Spacetime Vortex mutation ability.",
+  "version": "1.0.0",
+  "author": "mythraps",
+  "tags": "Gameplay",
+  "loadOrder": 100
+}
