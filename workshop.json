@@ -1,6 +1,7 @@
 {
+  "WorkshopId": 3660796961,
   "Title": "Disable Spacetime Vortex",
-  "Description": "Completely disables the Spacetime Vortex mutation ability. For players who find it too powerful, prone to bugs, or simply prefer not to use it.",
-  "Tags": "gameplay, balance, mutations",
-  "Visibility": "0"
+  "Description": "Completely disables the Spacetime Vortex mutation ability.\n• Safe to add to existing saves\n• Safe to remove (mutation will re-enable if mod is removed)\n• No conflicts with other mods\n \nGitHub: https://github.com/SattaRIP/CavesOfQud-DisableSpacetimeVortex\n",
+  "Tags": "Gameplay, Balance, Mutations",
+  "Visibility": "2"
 }
