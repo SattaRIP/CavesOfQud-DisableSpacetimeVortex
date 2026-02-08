@@ -1,7 +1,9 @@
 {
-  "ID": "DisableSpacetimeVortex",
-  "Title": "Disable Spacetime Vortex",
-  "Author": "mythraps",
-  "Description": "Disables the Spacetime Vortex mutation ability.",
-  "Tags": "Gameplay"
+  "id": "DisableSpacetimeVortex",
+  "title": "Disable Spacetime Vortex",
+  "author": "mythraps",
+  "version": "1.0.0",
+  "description": "Disables the Spacetime Vortex ability for all creatures to improve performance and reduce lag.",
+  "tags": "Performance, Balance, QoL",
+  "previewImage": "preview.png"
 }
