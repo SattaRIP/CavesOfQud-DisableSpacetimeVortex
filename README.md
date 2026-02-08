@@ -2,19 +2,19 @@
 
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=3660796961)
 
-A simple mod that completely disables the Spacetime Vortex mutation ability.
+A performance optimization mod that completely disables the Spacetime Vortex ability for all creatures to reduce lag.
 
 ## Why This Mod?
 
-- **Balance**: Some players find Spacetime Vortex too powerful
+- **Performance**: Spacetime Vortex can cause significant lag and slowdowns
 - **Bug Avoidance**: The ability can sometimes cause bugs or crashes
-- **Personal Preference**: You want to play without this particular mutation
+- **Cleaner Combat**: Eliminates the chaos and performance hit from Spacetime Vortex activations
 
 ## What It Does
 
-- Removes the Spacetime Vortex mutation from being selectable
-- Existing characters with the mutation will have it disabled
-- The mutation will not appear in mutation pools or random mutations
+- Blocks all creatures (including player and NPCs) from activating Spacetime Vortex
+- The mutation can still be acquired but cannot be used
+- No impact on other abilities or game mechanics
 
 ## Installation
 
