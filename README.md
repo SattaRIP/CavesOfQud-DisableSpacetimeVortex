@@ -2,18 +2,18 @@
 
 [![Steam Workshop](https://img.shields.io/badge/Steam-Workshop-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=3660796961)
 
-A performance optimization mod that completely disables the Spacetime Vortex ability for all creatures to reduce lag.
+A performance optimization mod that prevents NPCs from using the Spacetime Vortex ability while allowing the player to continue using it.
 
 ## Why This Mod?
 
-- **Performance**: Spacetime Vortex can cause significant lag and slowdowns
-- **Bug Avoidance**: The ability can sometimes cause bugs or crashes
-- **Cleaner Combat**: Eliminates the chaos and performance hit from Spacetime Vortex activations
+- **Performance**: When multiple NPCs use Spacetime Vortex, it can cause significant lag
+- **Player Advantage Maintained**: You can still use Spacetime Vortex normally
+- **Cleaner Combat**: Reduces the chaos and performance hit from NPC Spacetime Vortex activations
 
 ## What It Does
 
-- Blocks all creatures (including player and NPCs) from activating Spacetime Vortex
-- The mutation can still be acquired but cannot be used
+- Blocks all NPCs and enemies from activating Spacetime Vortex
+- Player character can still use Spacetime Vortex without restrictions
 - No impact on other abilities or game mechanics
 
 ## Installation

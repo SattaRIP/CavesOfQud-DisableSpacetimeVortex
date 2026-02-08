@@ -13,6 +13,13 @@ namespace LocalMods
         {
             if (E.ID == "CommandSpaceTimeVortex")
             {
+                // Allow player to use it
+                if (__instance.ParentObject != null && __instance.ParentObject.IsPlayer())
+                {
+                    return true; // Continue to original
+                }
+
+                // Block NPCs
                 __result = true;
                 return false;
             }

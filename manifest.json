@@ -3,7 +3,7 @@
   "title": "Disable Spacetime Vortex",
   "author": "mythraps",
   "version": "1.0.0",
-  "description": "Disables the Spacetime Vortex ability for all creatures to improve performance and reduce lag.",
+  "description": "Prevents NPCs from using Spacetime Vortex while keeping it available for the player.",
   "tags": "Performance, Balance, QoL",
   "previewImage": "preview.png"
 }

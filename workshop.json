@@ -1,7 +1,7 @@
 {
   "WorkshopId": 3660796961,
   "Title": "Disable Spacetime Vortex",
-  "Description": "Performance optimization mod that completely disables the Spacetime Vortex ability to reduce lag.\n\n• Safe to add to existing saves\n• Safe to remove\n• Compatible with other mods\n• Uses Harmony patching for reliability\n\nGitHub: https://github.com/SattaRIP/CavesOfQud-DisableSpacetimeVortex",
+  "Description": "Performance optimization mod that prevents NPCs from using Spacetime Vortex while keeping it available for the player.\n\n• Reduces lag from NPC Spacetime Vortex activations\n• Player can still use Spacetime Vortex normally\n• Safe to add to existing saves\n• Safe to remove\n• Compatible with other mods\n• Uses Harmony patching for reliability\n\nGitHub: https://github.com/SattaRIP/CavesOfQud-DisableSpacetimeVortex",
   "Tags": "Performance, Balance, QoL",
   "Visibility": "2"
 }
